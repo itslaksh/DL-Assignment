@@ -4,13 +4,13 @@ This Node.js project fetches the latest 6 stories from Time.com's RSS feed and e
 
 ## Setup & Run
 
-1. **Clone or download the project files**
+1. **Clone this repository or download the project files**
 
 2. **Ensure Node.js is installed** (version 12 or above recommended)
 
 3. **Run the server:**
 
-node server.js
+node index.js
 
 
 4. **Access the API**
